@@ -28,7 +28,7 @@ O "Jogo do Amigo Secreto" é um projeto simples e divertido que permite organiza
 
 ## Tecnologias Utilizadas
 
-:heavy_check_mark: JavaScript (Node.js, React, etc.)
+:heavy_check_mark: JavaScript 
 :heavy_check_mark: HTML, CSS
 
 
