@@ -24,7 +24,7 @@ O "Jogo do Amigo Secreto" é um projeto simples e divertido que permite organiza
 
 ## Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação: 
+> Link do deploy da aplicação: https://github.com/fernandaalfreitas/Sorteador-de-Amigo/tree/6abb14a549ba0e2de41a0082f7d051b7d0d2f1ed/Sorteador-de-Nome-de-Amigo
 
 ## Tecnologias Utilizadas
 
