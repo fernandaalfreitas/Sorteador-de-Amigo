@@ -33,6 +33,6 @@ O "Jogo do Amigo Secreto" é um projeto simples e divertido que permite organiza
 Entre em contato.
 
 
-## Desenvolvedora:octocat:
+## Desenvolvedora
 
 Fernanda Freitas
